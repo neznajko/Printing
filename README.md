@@ -7,7 +7,8 @@ in the source *printing.py*, but if you want to check it,
 It's about a *LAN* network consisting of computer clients
 which share a common printing server through a semaphore.
 
-## Letters
+![](pix/BLUE01.png)
+
 ![](pix/13-nomer-edno.png)
 
 [Africa](https://youtu.be/FTQbiNvZqaY)
